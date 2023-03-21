@@ -1,2 +1,2 @@
 # python-exercises
-excerises from udemy course Python for Data Science and Machine Learning Bootcamp by Jose Portilla
+excerises (mainly with the use of pandas and numpy libraries) from udemy course Python for Data Science and Machine Learning Bootcamp by Jose Portilla
